@@ -1,0 +1,19 @@
+E226-S187 9 fybranit9 2 black sulphuric
+E226-S187 7 fybranit7 3 brown ironoxide
+E226-S187 6 fybranit6 1 brown swamp
+E226-S187 7 fybranit7 3 brown ironoxide
+E226-S187 6 fybranit6 1 brown swamp
+E226-S187 3 mircast3 3 green no liquid
+E226-S187 2 mircast2 2 yellow yes noliquid
+E226-S187 1 mircast1 2 yellow yes liquid
+E226-S187 5 cast5 3 blue yes
+E226-S187 4 cast4 2 brown no
+animal
+bosentoru
+fybran
+fybranite
+human
+kitunian
+mircastely
+plant
+sentoru

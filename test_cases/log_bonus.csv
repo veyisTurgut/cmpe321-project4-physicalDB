@@ -1,0 +1,105 @@
+useralpha,,login,failure
+null,,register user useralpha,success
+useralpha,,login,success
+useralpha,,create type animal 4 name age height weight,success
+useralpha,,inherit type human animal alias occupation,success
+useralpha,,create record human 3 MarkWebbler 27 178 81 Shadow engineer,success
+useralpha,,list record human,success
+useralpha,,list record animal,failure
+useralpha,,logout,success
+null,,list record human,failure
+null,,list type,failure
+useralpha,,login,success
+useralpha,,create type animal,failure
+useralpha,,create record human 1 JaneBradley 24 171 61 Leaf doctor,success
+useralpha,,list record human,success
+useralpha,,logout,success
+null,,register user userbeta,success
+userbeta,,login,success
+userbeta,,create record human 2 JonathanByn 20 190 88 Raw mechanic,success
+userbeta,,list record human,success
+userbeta,,inherit type kitunian animal color fangCount,success
+userbeta,,create record kitunian 5 MrsEvangeline 2 40 3 black 4,success
+userbeta,,create record kitunian 8 MrEvangeline 1 32 2 black 2,success
+userbeta,,create record kitunian 6 RopeHunter 2 38 4 blue 4,success
+userbeta,,create record kitunian 1 Findik 1 20 1 yellow 0,success
+userbeta,,create record kitunian 11 Meercat 3 43 4 blue 6,success
+userbeta,,list record kitunian,success
+userbeta,,logout,success
+useralpha,,login,success
+useralpha,,filter record human age>21,success
+useralpha,,update record human 2 JonathanByn 30 190 83 Raw mechanic,success
+useralpha,,list type,success
+useralpha,,search record kitunian 1,success
+useralpha,,logout,success
+userbeta,,login,success
+userbeta,,inherit type centifyren animal flameColor,success
+userbeta,,create record centifyren 7 CFG7 2 100 4 golden,success
+userbeta,,create record centifyren 3 CFB3 3 140 7 black,success
+userbeta,,list record centifyren,success
+userbeta,,delete record centifyren 7,success
+userbeta,,list record centifyren,success
+userbeta,,list type,success
+userbeta,,delete type centifyren,success
+userbeta,,list type,success
+userbeta,,delete type centifyren,failure
+userbeta,,delete record kitunian 9,failure
+userbeta,,logout,success
+useralpha,,login,failure
+useralpha,,login,success
+useralpha,,list type,success
+useralpha,,create type plant 3 name age color,success
+useralpha,,inherit type castely plant domestic,success
+useralpha,,inherit type mircastely castely rootType,success
+useralpha,,inherit type fybranite plant soilType,success
+useralpha,,inherit type fybran fybranite barkColor,success
+useralpha,,create type animal 4 name age height weight,failure
+useralpha,,inherit type sentoru animal legCount,success
+useralpha,,inherit type bosentoru sentoru hornDensity,success
+useralpha,,list type,success
+useralpha,,create record mircastely 1 mircast1 2 yellow yes liquid,success
+useralpha,,create record mircastely 3 mircast3 3 green no liquid,success
+useralpha,,create record mircastely 2 mircast2 2 yellow yes noliquid,success
+useralpha,,create record castely 3 cast3 1 blue no,success
+useralpha,,create record castely 5 cast5 3 blue yes,success
+useralpha,,create record castely 4 cast4 2 brown no,success
+useralpha,,create record fybranite 7 fybranit7 3 brown ironoxide,success
+useralpha,,create record fybranite 6 fybranit6 1 brown swamp,success
+useralpha,,create record fybranite 9 fybranit9 2 black sulphuric,success
+useralpha,,create record fybran 11 fybran11 4 black sulphuric brown,success
+useralpha,,create record fybran 13 fybran13 2 brown ironoxide brown,success
+useralpha,,create record bosentoru 21 bosen21 4 500 1000 8 25,success
+useralpha,,create record bosentoru 24 bosen24 7 900 14000 8 41,success
+useralpha,,create record bosentoru 22 bosen22 3 400 900 6 16,success
+useralpha,,create record bosentoru 23 bosen23 1 200 400 6 3,success
+useralpha,,create record sentoru 25 sen25 2 300 750 6,success
+useralpha,,create record sentoru 26 sen26 4 450 1150 8,success
+useralpha,,list record bosentoru,success
+useralpha,,filter record sentoru legCount>6,success
+useralpha,,list record plant,failure
+useralpha,,list record animal,failure
+useralpha,,update record sentoru 25 sen25 4 600 3750 8,success
+useralpha,,filter record sentoru legCount>6,success
+useralpha,,logout,success
+userbeta,,login,success
+userbeta,,list record fybranite,success
+userbeta,,delete record fybranite 9,success
+userbeta,,list record fybranite,success
+userbeta,,list record mircastely,success
+userbeta,,filter record castely age>1,success
+userbeta,,delete type castely,success
+userbeta,,list type,success
+userbeta,,logout,success
+null,,search record bosentoru 24,failure
+null,,search record kitunian 1,failure
+null,,list record fybran,failure
+null,,search record fybranite 7,failure
+useralpha,,login,success
+useralpha,,update record bosentoru 24 bosen24 7 1900 144000 8 151,success
+useralpha,,list record bosentoru,success
+useralpha,,list record kitunian,success
+useralpha,,list record human,success
+useralpha,,filter record bosentoru height<900,success
+useralpha,,filter record bosentoru legCount<8,success
+useralpha,,logout,success
+null,,list type,failure

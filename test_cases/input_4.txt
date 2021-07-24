@@ -1,0 +1,9 @@
+list record fybran
+search record fybranite 7
+update record bosentoru 24 bosen24 7 1900 144000 8 151
+list record bosentoru
+list record kitunian
+list record human
+filter record bosentoru height<900
+filter record bosentoru legCount<8
+list type

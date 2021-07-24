@@ -1,0 +1,33 @@
+list type
+create type plant 3 name age color
+inherit type castely plant domestic
+inherit type mircastely castely rootType
+inherit type fybranite plant soilType
+inherit type fybran fybranite barkColor
+create type animal 4 name age height weight
+inherit type sentoru animal legCount
+inherit type bosentoru sentoru hornDensity
+list type
+create record mircastely 1 mircast1 2 yellow yes liquid
+create record mircastely 3 mircast3 3 green no liquid
+create record mircastely 2 mircast2 2 yellow yes noliquid
+create record castely 3 cast3 1 blue no
+create record castely 5 cast5 3 blue yes
+create record castely 4 cast4 2 brown no
+create record fybranite 7 fybranit7 3 brown ironoxide
+create record fybranite 6 fybranit6 1 brown swamp
+create record fybranite 9 fybranit9 2 black sulphuric
+create record fybran 11 fybran11 4 black sulphuric brown
+create record fybran 13 fybran13 2 brown ironoxide brown
+create record bosentoru 21 bosen21 4 500 1000 8 25
+create record bosentoru 24 bosen24 7 900 14000 8 41
+create record bosentoru 22 bosen22 3 400 900 6 16
+create record bosentoru 23 bosen23 1 200 400 6 3
+create record sentoru 25 sen25 2 300 750 6
+create record sentoru 26 sen26 4 450 1150 8
+list record bosentoru
+filter record sentoru legCount>6
+list record plant
+list record animal
+update record sentoru 25 sen25 4 600 3750 8
+filter record sentoru legCount>6

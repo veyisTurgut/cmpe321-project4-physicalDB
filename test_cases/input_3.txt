@@ -1,0 +1,9 @@
+list record fybranite
+delete record fybranite 9
+list record fybranite
+list record mircastely
+filter record castely age>1
+delete type castely
+list type
+search record bosentoru 24
+search record kitunian 1

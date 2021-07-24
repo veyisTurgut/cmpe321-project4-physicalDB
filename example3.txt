@@ -1,0 +1,298 @@
+create type animal 4 name age height weight
+inherit type human animal alias occupation
+create record human 1 MarkWebbler 27 178 81 Shadow engineer
+create record human 2 MarkWebbler 27 178 81 Shadow engineer
+create record human 3 MarkWebbler 27 178 81 Shadow engineer
+create record human 4 MarkWebbler 27 178 81 Shadow engineer
+create record human 5 MarkWebbler 27 178 81 Shadow engineer
+create record human 6 MarkWebbler 27 178 81 Shadow engineer
+create record human 7 MarkWebbler 27 178 81 Shadow engineer
+create record human 8 MarkWebbler 27 178 81 Shadow engineer
+create record human 9 MarkWebbler 27 178 81 Shadow engineer
+create record human 10 MarkWebbler 27 178 81 Shadow engineer
+create record human 11 MarkWebbler 27 178 81 Shadow engineer
+create record human 12 MarkWebbler 27 178 81 Shadow engineer
+create record human 13 MarkWebbler 27 178 81 Shadow engineer
+create record human 14 MarkWebbler 27 178 81 Shadow engineer
+create record human 15 MarkWebbler 27 178 81 Shadow engineer
+create record human 16 MarkWebbler 27 178 81 Shadow engineer
+create record human 17 MarkWebbler 27 178 81 Shadow engineer
+create record human 18 MarkWebbler 27 178 81 Shadow engineer
+create record human 19 MarkWebbler 27 178 81 Shadow engineer
+create record human 20 MarkWebbler 27 178 81 Shadow engineer
+create record human 21 MarkWebbler 27 178 81 Shadow engineer
+create record human 22 MarkWebbler 27 178 81 Shadow engineer
+create record human 23 MarkWebbler 27 178 81 Shadow engineer
+create record human 24 MarkWebbler 27 178 81 Shadow engineer
+create record human 25 MarkWebbler 27 178 81 Shadow engineer
+create record human 26 MarkWebbler 27 178 81 Shadow engineer
+create record human 27 MarkWebbler 27 178 81 Shadow engineer
+create record human 28 MarkWebbler 27 178 81 Shadow engineer
+create record human 29 MarkWebbler 27 178 81 Shadow engineer
+create record human 30 MarkWebbler 27 178 81 Shadow engineer
+create record human 31 MarkWebbler 27 178 81 Shadow engineer
+create record human 32 MarkWebbler 27 178 81 Shadow engineer
+create record human 33 MarkWebbler 27 178 81 Shadow engineer
+create record human 34 MarkWebbler 27 178 81 Shadow engineer
+create record human 35 MarkWebbler 27 178 81 Shadow engineer
+create record human 36 MarkWebbler 27 178 81 Shadow engineer
+create record human 37 MarkWebbler 27 178 81 Shadow engineer
+create record human 38 MarkWebbler 27 178 81 Shadow engineer
+create record human 39 MarkWebbler 27 178 81 Shadow engineer
+create record human 40 MarkWebbler 27 178 81 Shadow engineer
+create record human 41 MarkWebbler 27 178 81 Shadow engineer
+create record human 42 MarkWebbler 27 178 81 Shadow engineer
+create record human 43 MarkWebbler 27 178 81 Shadow engineer
+create record human 44 MarkWebbler 27 178 81 Shadow engineer
+create record human 45 MarkWebbler 27 178 81 Shadow engineer
+create record human 46 MarkWebbler 27 178 81 Shadow engineer
+create record human 47 MarkWebbler 27 178 81 Shadow engineer
+create record human 48 MarkWebbler 27 178 81 Shadow engineer
+create record human 49 MarkWebbler 27 178 81 Shadow engineer
+create record human 50 MarkWebbler 27 178 81 Shadow engineer
+create record human 51 MarkWebbler 27 178 81 Shadow engineer
+create record human 52 MarkWebbler 27 178 81 Shadow engineer
+create record human 53 MarkWebbler 27 178 81 Shadow engineer
+create record human 54 MarkWebbler 27 178 81 Shadow engineer
+create record human 55 MarkWebbler 27 178 81 Shadow engineer
+create record human 56 MarkWebbler 27 178 81 Shadow engineer
+create record human 57 MarkWebbler 27 178 81 Shadow engineer
+create record human 58 MarkWebbler 27 178 81 Shadow engineer
+create record human 59 MarkWebbler 27 178 81 Shadow engineer
+create record human 60 MarkWebbler 27 178 81 Shadow engineer
+create record human 61 MarkWebbler 27 178 81 Shadow engineer
+create record human 62 MarkWebbler 27 178 81 Shadow engineer
+create record human 63 MarkWebbler 27 178 81 Shadow engineer
+create record human 64 MarkWebbler 27 178 81 Shadow engineer
+create record human 65 MarkWebbler 27 178 81 Shadow engineer
+create record human 66 MarkWebbler 27 178 81 Shadow engineer
+create record human 67 MarkWebbler 27 178 81 Shadow engineer
+create record human 68 MarkWebbler 27 178 81 Shadow engineer
+create record human 69 MarkWebbler 27 178 81 Shadow engineer
+create record human 70 MarkWebbler 27 178 81 Shadow engineer
+create record human 71 MarkWebbler 27 178 81 Shadow engineer
+create record human 72 MarkWebbler 27 178 81 Shadow engineer
+create record human 73 MarkWebbler 27 178 81 Shadow engineer
+create record human 74 MarkWebbler 27 178 81 Shadow engineer
+create record human 75 MarkWebbler 27 178 81 Shadow engineer
+create record human 76 MarkWebbler 27 178 81 Shadow engineer
+create record human 77 MarkWebbler 27 178 81 Shadow engineer
+create record human 78 MarkWebbler 27 178 81 Shadow engineer
+create record human 79 MarkWebbler 27 178 81 Shadow engineer
+create record human 80 MarkWebbler 27 178 81 Shadow engineer
+create record human 81 MarkWebbler 27 178 81 Shadow engineer
+create record human 82 MarkWebbler 27 178 81 Shadow engineer
+create record human 83 MarkWebbler 27 178 81 Shadow engineer
+create record human 84 MarkWebbler 27 178 81 Shadow engineer
+create record human 85 MarkWebbler 27 178 81 Shadow engineer
+create record human 86 MarkWebbler 27 178 81 Shadow engineer
+create record human 87 MarkWebbler 27 178 81 Shadow engineer
+create record human 88 MarkWebbler 27 178 81 Shadow engineer
+create record human 89 MarkWebbler 27 178 81 Shadow engineer
+create record human 90 MarkWebbler 27 178 81 Shadow engineer
+create record human 91 MarkWebbler 27 178 81 Shadow engineer
+create record human 92 MarkWebbler 27 178 81 Shadow engineer
+create record human 93 MarkWebbler 27 178 81 Shadow engineer
+create record human 94 MarkWebbler 27 178 81 Shadow engineer
+create record human 95 MarkWebbler 27 178 81 Shadow engineer
+create record human 96 MarkWebbler 27 178 81 Shadow engineer
+create record human 97 MarkWebbler 27 178 81 Shadow engineer
+create record human 98 MarkWebbler 27 178 81 Shadow engineer
+create record human 99 MarkWebbler 27 178 81 Shadow engineer
+create record human 100 MarkWebbler 27 178 81 Shadow engineer
+create record human 101 MarkWebbler 27 178 81 Shadow engineer
+create record human 102 MarkWebbler 27 178 81 Shadow engineer
+create record human 103 MarkWebbler 27 178 81 Shadow engineer
+create record human 104 MarkWebbler 27 178 81 Shadow engineer
+create record human 105 MarkWebbler 27 178 81 Shadow engineer
+create record human 106 MarkWebbler 27 178 81 Shadow engineer
+create record human 107 MarkWebbler 27 178 81 Shadow engineer
+create record human 108 MarkWebbler 27 178 81 Shadow engineer
+create record human 109 MarkWebbler 27 178 81 Shadow engineer
+create record human 110 MarkWebbler 27 178 81 Shadow engineer
+create record human 111 MarkWebbler 27 178 81 Shadow engineer
+create record human 112 MarkWebbler 27 178 81 Shadow engineer
+create record human 113 MarkWebbler 27 178 81 Shadow engineer
+create record human 114 MarkWebbler 27 178 81 Shadow engineer
+create record human 115 MarkWebbler 27 178 81 Shadow engineer
+create record human 116 MarkWebbler 27 178 81 Shadow engineer
+create record human 117 MarkWebbler 27 178 81 Shadow engineer
+create record human 118 MarkWebbler 27 178 81 Shadow engineer
+create record human 119 MarkWebbler 27 178 81 Shadow engineer
+create record human 120 MarkWebbler 27 178 81 Shadow engineer
+create record human 121 MarkWebbler 27 178 81 Shadow engineer
+create record human 122 MarkWebbler 27 178 81 Shadow engineer
+create record human 123 MarkWebbler 27 178 81 Shadow engineer
+create record human 124 MarkWebbler 27 178 81 Shadow engineer
+create record human 125 MarkWebbler 27 178 81 Shadow engineer
+create record human 126 MarkWebbler 27 178 81 Shadow engineer
+create record human 127 MarkWebbler 27 178 81 Shadow engineer
+create record human 128 MarkWebbler 27 178 81 Shadow engineer
+create record human 129 MarkWebbler 27 178 81 Shadow engineer
+create record human 130 MarkWebbler 27 178 81 Shadow engineer
+create record human 131 MarkWebbler 27 178 81 Shadow engineer
+create record human 132 MarkWebbler 27 178 81 Shadow engineer
+create record human 133 MarkWebbler 27 178 81 Shadow engineer
+create record human 134 MarkWebbler 27 178 81 Shadow engineer
+create record human 135 MarkWebbler 27 178 81 Shadow engineer
+create record human 136 MarkWebbler 27 178 81 Shadow engineer
+create record human 137 MarkWebbler 27 178 81 Shadow engineer
+create record human 138 MarkWebbler 27 178 81 Shadow engineer
+create record human 139 MarkWebbler 27 178 81 Shadow engineer
+create record human 140 MarkWebbler 27 178 81 Shadow engineer
+create record human 141 MarkWebbler 27 178 81 Shadow engineer
+create record human 142 MarkWebbler 27 178 81 Shadow engineer
+create record human 143 MarkWebbler 27 178 81 Shadow engineer
+create record human 144 MarkWebbler 27 178 81 Shadow engineer
+create record human 145 MarkWebbler 27 178 81 Shadow engineer
+create record human 146 MarkWebbler 27 178 81 Shadow engineer
+create record human 147 MarkWebbler 27 178 81 Shadow engineer
+create record human 148 MarkWebbler 27 178 81 Shadow engineer
+create record human 149 MarkWebbler 27 178 81 Shadow engineer
+create record human 150 MarkWebbler 27 178 81 Shadow engineer
+create record human 151 MarkWebbler 27 178 81 Shadow engineer
+create record human 152 MarkWebbler 27 178 81 Shadow engineer
+create record human 153 MarkWebbler 27 178 81 Shadow engineer
+create record human 154 MarkWebbler 27 178 81 Shadow engineer
+create record human 155 MarkWebbler 27 178 81 Shadow engineer
+create record human 156 MarkWebbler 27 178 81 Shadow engineer
+create record human 157 MarkWebbler 27 178 81 Shadow engineer
+create record human 158 MarkWebbler 27 178 81 Shadow engineer
+create record human 159 MarkWebbler 27 178 81 Shadow engineer
+create record human 160 MarkWebbler 27 178 81 Shadow engineer
+create record human 161 MarkWebbler 27 178 81 Shadow engineer
+create record human 162 MarkWebbler 27 178 81 Shadow engineer
+create record human 163 MarkWebbler 27 178 81 Shadow engineer
+create record human 164 MarkWebbler 27 178 81 Shadow engineer
+create record human 165 MarkWebbler 27 178 81 Shadow engineer
+create record human 166 MarkWebbler 27 178 81 Shadow engineer
+create record human 167 MarkWebbler 27 178 81 Shadow engineer
+create record human 168 MarkWebbler 27 178 81 Shadow engineer
+create record human 169 MarkWebbler 27 178 81 Shadow engineer
+create record human 170 MarkWebbler 27 178 81 Shadow engineer
+create record human 171 MarkWebbler 27 178 81 Shadow engineer
+create record human 172 MarkWebbler 27 178 81 Shadow engineer
+create record human 173 MarkWebbler 27 178 81 Shadow engineer
+create record human 174 MarkWebbler 27 178 81 Shadow engineer
+create record human 175 MarkWebbler 27 178 81 Shadow engineer
+create record human 176 MarkWebbler 27 178 81 Shadow engineer
+create record human 177 MarkWebbler 27 178 81 Shadow engineer
+create record human 178 MarkWebbler 27 178 81 Shadow engineer
+create record human 179 MarkWebbler 27 178 81 Shadow engineer
+create record human 180 MarkWebbler 27 178 81 Shadow engineer
+create record human 181 MarkWebbler 27 178 81 Shadow engineer
+create record human 182 MarkWebbler 27 178 81 Shadow engineer
+create record human 183 MarkWebbler 27 178 81 Shadow engineer
+create record human 184 MarkWebbler 27 178 81 Shadow engineer
+create record human 185 MarkWebbler 27 178 81 Shadow engineer
+create record human 186 MarkWebbler 27 178 81 Shadow engineer
+create record human 187 MarkWebbler 27 178 81 Shadow engineer
+create record human 188 MarkWebbler 27 178 81 Shadow engineer
+create record human 189 MarkWebbler 27 178 81 Shadow engineer
+create record human 190 MarkWebbler 27 178 81 Shadow engineer
+create record human 191 MarkWebbler 27 178 81 Shadow engineer
+create record human 192 MarkWebbler 27 178 81 Shadow engineer
+create record human 193 MarkWebbler 27 178 81 Shadow engineer
+create record human 194 MarkWebbler 27 178 81 Shadow engineer
+create record human 195 MarkWebbler 27 178 81 Shadow engineer
+create record human 196 MarkWebbler 27 178 81 Shadow engineer
+create record human 197 MarkWebbler 27 178 81 Shadow engineer
+create record human 198 MarkWebbler 27 178 81 Shadow engineer
+create record human 199 MarkWebbler 27 178 81 Shadow engineer
+create record human 200 MarkWebbler 27 178 81 Shadow engineer
+delete record human 60
+delete record human 61
+delete record human 62
+delete record human 63
+delete record human 64
+delete record human 65
+delete record human 66
+delete record human 67
+delete record human 68
+delete record human 69
+delete record human 70
+delete record human 71
+delete record human 72
+delete record human 73
+delete record human 74
+delete record human 75
+delete record human 76
+delete record human 77
+delete record human 78
+delete record human 79
+delete record human 80
+delete record human 81
+delete record human 82
+delete record human 83
+delete record human 84
+delete record human 85
+delete record human 86
+delete record human 87
+delete record human 88
+delete record human 89
+delete record human 90
+delete record human 91
+delete record human 92
+delete record human 93
+delete record human 94
+delete record human 95
+delete record human 96
+delete record human 97
+delete record human 98
+delete record human 99
+delete record human 100
+delete record human 101
+delete record human 102
+delete record human 103
+delete record human 104
+delete record human 105
+delete record human 106
+delete record human 107
+delete record human 108
+delete record human 109
+delete record human 110
+delete record human 111
+delete record human 112
+delete record human 113
+delete record human 114
+delete record human 115
+delete record human 116
+delete record human 117
+delete record human 118
+delete record human 119
+delete record human 120
+create record human 61 MarkWebbler 27 178 81 Shadow engineer
+create record human 62 MarkWebbler 27 178 81 Shadow engineer
+create record human 63 MarkWebbler 27 178 81 Shadow engineer
+create record human 64 MarkWebbler 27 178 81 Shadow engineer
+create record human 65 MarkWebbler 27 178 81 Shadow engineer
+create record human 66 MarkWebbler 27 178 81 Shadow engineer
+create record human 67 MarkWebbler 27 178 81 Shadow engineer
+create record human 68 MarkWebbler 27 178 81 Shadow engineer
+create record human 69 MarkWebbler 27 178 81 Shadow engineer
+create record human 70 MarkWebbler 27 178 81 Shadow engineer
+create record human 71 MarkWebbler 27 178 81 Shadow engineer
+create record human 72 MarkWebbler 27 178 81 Shadow engineer
+create record human 73 MarkWebbler 27 178 81 Shadow engineer
+create record human 74 MarkWebbler 27 178 81 Shadow engineer
+create record human 75 MarkWebbler 27 178 81 Shadow engineer
+create record human 76 MarkWebbler 27 178 81 Shadow engineer
+create record human 77 MarkWebbler 27 178 81 Shadow engineer
+create record human 78 MarkWebbler 27 178 81 Shadow engineer
+create record human 79 MarkWebbler 27 178 81 Shadow engineer
+create record human 80 MarkWebbler 27 178 81 Shadow engineer
+create record human 81 MarkWebbler 27 178 81 Shadow engineer
+create record human 82 MarkWebbler 27 178 81 Shadow engineer
+create record human 83 MarkWebbler 27 178 81 Shadow engineer
+create record human 84 MarkWebbler 27 178 81 Shadow engineer
+create record human 85 MarkWebbler 27 178 81 Shadow engineer
+create record human 86 MarkWebbler 27 178 81 Shadow engineer
+create record human 87 MarkWebbler 27 178 81 Shadow engineer
+create record human 88 MarkWebbler 27 178 81 Shadow engineer
+create record human 89 MarkWebbler 27 178 81 Shadow engineer
+create record human 90 MarkWebbler 27 178 81 Shadow engineer
+create record human 91 MarkWebbler 27 178 81 Shadow engineer
+create record human 92 MarkWebbler 27 178 81 Shadow engineer
+create record human 93 MarkWebbler 27 178 81 Shadow engineer
+create record human 94 MarkWebbler 27 178 81 Shadow engineer
+create record human 95 MarkWebbler 27 178 81 Shadow engineer

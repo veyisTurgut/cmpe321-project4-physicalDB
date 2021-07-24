@@ -1,0 +1,29 @@
+E226-S187 13 fybran13 2 brown ironoxide brown
+E226-S187 11 fybran11 4 black sulphuric brown
+E226-S187 7 fybranit7 3 brown ironoxide
+E226-S187 24 bosen24 7 1900 144000 8 151
+E226-S187 23 bosen23 1 200 400 6 3
+E226-S187 22 bosen22 3 400 900 6 16
+E226-S187 21 bosen21 4 500 1000 8 25
+E226-S187 11 Meercat 3 43 4 blue 6
+E226-S187 8 MrEvangeline 1 32 2 black 2
+E226-S187 6 RopeHunter 2 38 4 blue 4
+E226-S187 5 MrsEvangeline 2 40 3 black 4
+E226-S187 1 Findik 1 20 1 yellow 0
+E226-S187 3 MarkWebbler 27 178 81 Shadow engineer
+E226-S187 2 JonathanByn 30 190 83 Raw mechanic
+E226-S187 1 JaneBradley 24 171 61 Leaf doctor
+E226-S187 23 bosen23 1 200 400 6 3
+E226-S187 22 bosen22 3 400 900 6 16
+E226-S187 21 bosen21 4 500 1000 8 25
+E226-S187 23 bosen23 1 200 400 6 3
+E226-S187 22 bosen22 3 400 900 6 16
+animal
+bosentoru
+fybran
+fybranite
+human
+kitunian
+mircastely
+plant
+sentoru
